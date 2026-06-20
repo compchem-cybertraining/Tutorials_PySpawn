@@ -11,7 +11,6 @@
 
 *Hands-on session material for **Multiple Spawning with PySpawn** — CyberTraining Summer School & Workshop, University at Buffalo, July 5–11, 2026.*
 </div>
----
 
 ## 📖 Overview
 
