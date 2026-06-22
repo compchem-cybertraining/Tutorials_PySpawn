@@ -213,7 +213,7 @@ cd 1 && mkdir analysis && cd analysis && mv ../analysis.py . && python analysis.
 
 ## 🙏 Acknowledgement
 
-Material prepared by **Arshad Mehmood** (Institute for Advanced Computational Science, Stony Brook University) for the **PySpawn / OpenMolcas** session led with **Professor Benjamin G. Levine**. This work is supported by the **NSF-OAC CyberTraining** program.
+Material prepared by [**Arshad Mehmood**](https://arshadmehmood118.github.io/) (Institute for Advanced Computational Science, Stony Brook University) for the **PySpawn / OpenMolcas** session led with [**Professor Benjamin G. Levine**](https://levinegroup.org/). This work is supported by the **NSF-OAC CyberTraining** program.
 
 📧 **Post-workshop questions?** Email **[arshad.mehmood@stonybrook.edu](mailto:arshad.mehmood@stonybrook.edu)**.
 
